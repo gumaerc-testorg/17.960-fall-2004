@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9bda4ec-888a-6d27-55a1-21f044d429c7
 resourcetype: Document
 title: foucault_lecnote.pdf
 uid: 1ef51369-7beb-3144-86ea-08c09ea6d241

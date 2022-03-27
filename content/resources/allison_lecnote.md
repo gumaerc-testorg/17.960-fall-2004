@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9bda4ec-888a-6d27-55a1-21f044d429c7
 resourcetype: Document
 title: allison_lecnote.pdf
 uid: b6560a12-81ee-4bec-45cf-8c63ac28108f

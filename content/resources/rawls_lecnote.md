@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9bda4ec-888a-6d27-55a1-21f044d429c7
 resourcetype: Document
 title: rawls_lecnote.pdf
 uid: 6aaa9be8-099e-9049-d14b-26d7c1039dce

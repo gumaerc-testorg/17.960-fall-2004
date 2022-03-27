@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9bda4ec-888a-6d27-55a1-21f044d429c7
 resourcetype: Document
 title: elster_lecnote.pdf
 uid: d92ad9c1-8ecc-0a75-4d65-8f4ada76b585

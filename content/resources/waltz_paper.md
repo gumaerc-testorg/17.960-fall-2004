@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd51e754-29e1-208d-6487-ee0d1ef3ddb5
 resourcetype: Document
 title: waltz_paper.pdf
 uid: 245e4000-1c76-2200-ecc5-3d4380a27042

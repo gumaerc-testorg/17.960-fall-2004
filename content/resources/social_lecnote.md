@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e9bda4ec-888a-6d27-55a1-21f044d429c7
 resourcetype: Document
 title: social_lecnote.pdf
 uid: a380ca51-06d6-2fe5-19c7-198f16555d85

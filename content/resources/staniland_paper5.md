@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd51e754-29e1-208d-6487-ee0d1ef3ddb5
 resourcetype: Document
 title: staniland_paper5.pdf
 uid: 17dce726-2df0-3655-bd9c-affb17e9b804
