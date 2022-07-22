@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-960-foundations-of-political-science-fall-2004/1029d0f2051b5df2192ba4ce9908fa7c_waltz_lecnote.pdf
+file: /courses/17-960-foundations-of-political-science-fall-2004/1029d0f2051b5df2192ba4ce9908fa7c_waltz_lecnote.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
