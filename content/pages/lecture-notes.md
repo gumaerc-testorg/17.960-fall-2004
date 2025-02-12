@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -43,9 +44,9 @@ Organizational Meeting
 Liberty, Equality, Democracy
 {{< tdclose >}}
 {{< tdopen >}}
-Reconciling Liberty and Equality: Justice as Fairness ([PDF]({{< baseurl >}}/resources/rawls_lecnote))  
+Reconciling Liberty and Equality: Justice as Fairness ({{% resource_link 6aaa9be8-099e-9049-d14b-26d7c1039dce "PDF" %}})  
   
-The Importance of Philosophy: Reflections on John Rawls ([PDF]({{< baseurl >}}/resources/rawls2_lecnote))
+The Importance of Philosophy: Reflections on John Rawls ({{% resource_link 2e615942-1dbf-11a2-e88f-7693c32be007 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ The Importance of Philosophy: Reflections on John Rawls ([PDF]({{< baseurl >}}/r
 Liberty and Law
 {{< tdclose >}}
 {{< tdopen >}}
-Hayek ([PDF]({{< baseurl >}}/resources/hayek_lecnote))
+Hayek ({{% resource_link 99918a82-b2cd-b818-25e2-81ae81f0efee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Hayek ([PDF]({{< baseurl >}}/resources/hayek_lecnote))
 Democracy and Social Choice
 {{< tdclose >}}
 {{< tdopen >}}
-Social Choice ([PDF]({{< baseurl >}}/resources/social_lecnote))
+Social Choice ({{% resource_link a380ca51-06d6-2fe5-19c7-198f16555d85 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Social Choice ([PDF]({{< baseurl >}}/resources/social_lecnote))
 Power and International Politics
 {{< tdclose >}}
 {{< tdopen >}}
-Waltz ([PDF]({{< baseurl >}}/resources/waltz_lecnote))
+Waltz ({{% resource_link 1029d0f2-051b-5df2-192b-a4ce9908fa7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ Waltz ([PDF]({{< baseurl >}}/resources/waltz_lecnote))
 Collective Action
 {{< tdclose >}}
 {{< tdopen >}}
-Olson ([PDF]({{< baseurl >}}/resources/olson_lecnote))
+Olson ({{% resource_link 603adc0c-0e4f-7bfb-fd6f-98cc35c6d60f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Olson ([PDF]({{< baseurl >}}/resources/olson_lecnote))
 Individuals as Premises or Products?
 {{< tdclose >}}
 {{< tdopen >}}
-Foucault ([PDF]({{< baseurl >}}/resources/foucault_lecnote))
+Foucault ({{% resource_link 1ef51369-7beb-3144-86ea-08c09ea6d241 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Foucault ([PDF]({{< baseurl >}}/resources/foucault_lecnote))
 Organizations in International Politics
 {{< tdclose >}}
 {{< tdopen >}}
-Allison ([PDF]({{< baseurl >}}/resources/allison_lecnote))
+Allison ({{% resource_link b6560a12-81ee-4bec-45cf-8c63ac28108f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +130,7 @@ Allison ([PDF]({{< baseurl >}}/resources/allison_lecnote))
 Global Society
 {{< tdclose >}}
 {{< tdopen >}}
-Bull ([PDF]({{< baseurl >}}/resources/bull_lecnote))
+Bull ({{% resource_link f53deeb3-409a-7bfc-1d6b-e708d58ba4be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +142,7 @@ Bull ([PDF]({{< baseurl >}}/resources/bull_lecnote))
 Social Norms and Collective Action
 {{< tdclose >}}
 {{< tdopen >}}
-Elster ([PDF]({{< baseurl >}}/resources/elster_lecnote))
+Elster ({{% resource_link d92ad9c1-8ecc-0a75-4d65-8f4ada76b585 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

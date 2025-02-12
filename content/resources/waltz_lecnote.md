@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-960-foundations-of-political-science-fall-2004/1029d0f2051b5df2192ba4ce9908fa7c_waltz_lecnote.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/1029d0f2051b5df2192ba4ce9908fa7c_waltz_lecnote.pdf
+file_size: 80423
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

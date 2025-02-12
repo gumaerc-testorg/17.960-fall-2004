@@ -2,7 +2,8 @@
 content_type: resource
 description: Notes from the lecture and class discussion on the writings and ideas
   of Friedrich A. von Hayek.
-file: /courses/17-960-foundations-of-political-science-fall-2004/99918a82b2cdb81825e281ae81f0efee_hayek_lecnote.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/99918a82b2cdb81825e281ae81f0efee_hayek_lecnote.pdf
+file_size: 80673
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

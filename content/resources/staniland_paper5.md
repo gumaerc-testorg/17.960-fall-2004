@@ -2,7 +2,8 @@
 content_type: resource
 description: Example of a student essay submitted during the semester. (Courtesy of
   Paul Staniland. Used with permission.)
-file: /courses/17-960-foundations-of-political-science-fall-2004/17dce7262df03655bd9caffb17e9b804_staniland_paper5.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/17dce7262df03655bd9caffb17e9b804_staniland_paper5.pdf
+file_size: 64143
 file_type: application/pdf
 learning_resource_types:
 - Assignments

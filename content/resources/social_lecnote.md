@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Notes from the lecture on the Voting Paradox and Social Choice Theory.
-file: /courses/17-960-foundations-of-political-science-fall-2004/a380ca5106d62fe519c7198f16555d85_social_lecnote.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/a380ca5106d62fe519c7198f16555d85_social_lecnote.pdf
+file_size: 133560
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

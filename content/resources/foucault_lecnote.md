@@ -2,7 +2,8 @@
 content_type: resource
 description: Notes from the lecture and class discussion on the writings and ideas
   of Michel Foucault.
-file: /courses/17-960-foundations-of-political-science-fall-2004/1ef513697beb314486ea08c09ea6d241_foucault_lecnote.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/1ef513697beb314486ea08c09ea6d241_foucault_lecnote.pdf
+file_size: 70157
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

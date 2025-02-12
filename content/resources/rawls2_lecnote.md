@@ -2,7 +2,8 @@
 content_type: resource
 description: Notes from the lecture and class discussion on the writings and ideas
   of John Rawls.
-file: /courses/17-960-foundations-of-political-science-fall-2004/2e6159421dbf11a2e88f7693c32be007_rawls2_lecnote.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/2e6159421dbf11a2e88f7693c32be007_rawls2_lecnote.pdf
+file_size: 71659
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

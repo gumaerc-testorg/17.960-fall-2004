@@ -2,7 +2,8 @@
 content_type: resource
 description: Notes from the lecture and class discussion on the writings and ideas
   of Hedley Bull.
-file: /courses/17-960-foundations-of-political-science-fall-2004/f53deeb3409a7bfc1d6be708d58ba4be_bull_lecnote.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/f53deeb3409a7bfc1d6be708d58ba4be_bull_lecnote.pdf
+file_size: 75434
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

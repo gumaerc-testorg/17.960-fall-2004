@@ -2,7 +2,8 @@
 content_type: resource
 description: Notes from the lecture and class discussion on the writings and ideas
   of Graham Allison.
-file: /courses/17-960-foundations-of-political-science-fall-2004/b6560a1281ee4bec45cf8c63ac28108f_allison_lecnote.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/b6560a1281ee4bec45cf8c63ac28108f_allison_lecnote.pdf
+file_size: 74980
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

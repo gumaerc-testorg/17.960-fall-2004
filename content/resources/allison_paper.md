@@ -2,7 +2,8 @@
 content_type: resource
 description: Example of a student essay submitted during the semester. (Courtesy of
   Caitlin Talmadge. Used with permission.)
-file: /courses/17-960-foundations-of-political-science-fall-2004/1763d578be25c3b47088cc0910d77b85_allison_paper.pdf
+file: /ol-ocw-studio-app/courses/17-960-foundations-of-political-science-fall-2004/1763d578be25c3b47088cc0910d77b85_allison_paper.pdf
+file_size: 100532
 file_type: application/pdf
 learning_resource_types:
 - Assignments
